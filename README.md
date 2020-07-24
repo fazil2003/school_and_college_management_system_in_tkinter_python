@@ -1,0 +1,1 @@
+# school_and_college_management_system_in_tkinter_python
